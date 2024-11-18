@@ -1,7 +1,7 @@
 # 💫 About Me:
-- 🔭 Work in Progress: TTMS (Ticket-Management-System)
+- 🔭 Work in Progress: TTMS (Ticket-Management-System), Own Dev-Website
 - 🌱 Currently learning: Vue, Node, PHP
-- 📫 How to reach me: ...
+- 📫 How to reach me: [work in progress]
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: The first programmer was the daughter of a mad poet
 
